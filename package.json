@@ -1,0 +1,23 @@
+{
+  "name": "treeviz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmr88/treeviz.git"
+  },
+  "author": "Amir Rad, Parsa Ebrahimi, Amirali Hosseini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmr88/treeviz/issues"
+  },
+  "homepage": "https://github.com/ahmr88/treeviz#readme",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "prettier": "^1.19.1"
+  }
+}
